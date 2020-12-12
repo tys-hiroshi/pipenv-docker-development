@@ -35,3 +35,13 @@ Avoid redundant virtualization (Docker, virtualenv in pipenv).
 ## LICENSE
 
 MIT
+
+## create image
+
+docker-compose build
+
+## start docker image
+
+docker-compose up -d
+
+docker-compose ps
